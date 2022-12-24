@@ -15,6 +15,18 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
 
 
 
-#EXTINF:-1 ,UnitelSantaCruz.bo
+#EXTINF:-1 ,ATB La Paz Oficial
 
-https://dai.ly/x7wzxiw
+https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOlWPSZX99S_Glv-CrSV5PGPRTKdzSzJmjuCFImR5t1rQ)/dm/3/x84eirw/d/live-2.m3u8
+
+
+
+#EXTINF:-1 ,ATB Cochabamba Oficial
+
+https://stream-01.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5vxxf97kT6PCep5xu6Ec4VPvb6eN8xTAtITqFexaRcqJc)/dm/3/x89sfvo/s/live-1.m3u8
+
+
+
+#EXTINF:-1 ,ATB Santa Cruz Oficial
+
+https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOl255_OtNf3DpL83x3ZqVjxMLwYtlpAie2vXrHdbKQyC)/dm/3/x84t82c/s/live-1.m3u8
