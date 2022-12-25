@@ -121,3 +121,27 @@ https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/chunklist_w1197928608
 https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
 
 
+
+#EXTINF:-1 ,TeleSUR Oficial
+
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+
+
+
+#EXTINF:-1 ,EWTN Oficial
+
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/y2whd0cb/1728/chunklist.m3u8
+
+
+
+#EXTINF:-1 ,PTV Oficial
+
+https://edge1o.live.opencaster.com/caster/HmBGGEjCdnBu.m3u8
+
+
+
+#EXTINF:-1 ,Bethel Oficial
+
+https://d2ofok0g2ikqmc.cloudfront.net/out/v1/31a4166df3804e828624094974ab3143/index.mpd
+
+
